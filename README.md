@@ -1,1 +1,1 @@
-# algo_Alirzaev
+Алгоритмика Python Start 15:15
